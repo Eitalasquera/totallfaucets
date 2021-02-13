@@ -2,7 +2,7 @@ import { useState } from 'react';
 function Home(){
     return (<div>
                 <div>
-                    <h2>tudo certo nada resolvido</h2>                
+                    <h2>que merda meu</h2>                
                 </div>
             </div>)
             
